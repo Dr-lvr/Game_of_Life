@@ -1,0 +1,85 @@
+000000000000000000000000100000000000
+000000000000000000000010100000000000
+000000000000110000001100000000000011
+000000000001000100001100000000000011
+110000000010000010001100000000000000
+110000000010001011000010100000000000
+000000000010000010000000100000000000
+000000000001000100000000000000000000
+000000000000110000000000000000000000
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+	bool grid[9][36];
+	
+	for(int i=0; i<9; i++)
+	{
+		for(int j=0; j<36; j++)
+		{
+			grid[i][j]=false;
+		}	
+	}
+	
+	grid[0][24]=true;//
+	
+	grid[1][22]=true;
+	
+	grid[1][24]=true;//
+	
+	grid[2][12]=true;
+	grid[2][13]=true;
+	grid[2][20]=true;
+	grid[2][21]=true;
+	grid[2][34]=true;
+	grid[2][35]=true;
+	grid[3][11]=true;
+	grid[3][15]=true;
+	grid[3][20]=true;
+	grid[3][21]=true;
+	grid[3][34]=true;
+	grid[3][35]=true;
+	grid[4][0]=true;
+	grid[4][1]=true;
+	grid[4][10]=true;
+	grid[4][16]=true;
+	grid[4][20]=true;
+	grid[4][21]=true;
+	grid[5][0]=true;
+	grid[5][1]=true;
+	grid[5][10]=true;
+	grid[5][14]=true;
+	grid[5][16]=true;
+	grid[5][17]=true;
+	
+	grid[5][22]=true;
+	grid[5][24]=true;//
+	grid[6][10]=true;
+	grid[6][16]=true;
+	grid[6][24]=true;//
+	grid[7][11]=true;
+	grid[7][15]=true;
+	grid[8][12]=true;
+	grid[8][13]=true;
+	
+	for(int i=0; i<9; i++)
+	{
+		for(int j=0; j<36; j++)
+		{
+			/*if(grid[i][j])
+			{
+				cout<<"*";
+			}
+			else
+			{
+				cout<<" ";
+			}*/
+			
+			cout<<grid[i][j];
+		}
+		cout<<endl;	
+	}
+}
