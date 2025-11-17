@@ -28,20 +28,11 @@ printGrid – The next generation buffer
 This ensures all cell updates follow Conway’s rules without interfering with the current state mid-calculation.
 
 
-## Revival Goals
-
-This revival project is an opportunity to modernize architecture, improve design patterns, and enhance maintainability.
-
-
 ## Modernizing the Game of Life
 
-Portability: Decouple rendering logic from simulation logic, removing Windows-specific dependencies.
+[] Portability: Decouple rendering logic from simulation logic, removing Windows-specific dependencies.
 
-UI/UX Improvements: Rebuild the rendering layer using a modern, cross-platform approach:
-
-C++ with SFML or SDL
-
-OR a web-based port using HTML Canvas or WebGL
+[] UI/UX Improvements: Rebuild the rendering layer using a modern, cross-platform approach: C++ with SFML or SDL OR a web-based port using HTML Canvas or WebGL
 
 
 ## Dependency & Testing
