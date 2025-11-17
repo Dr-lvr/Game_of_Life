@@ -1,7 +1,6 @@
 ## Conway's Game of Life (Low-Level Console Engine)
 
-A simulation of Conway's Game of Life implemented in an unconventional ingenius way.
-
+A simulation of Conway's Game of Life implemented console environment.
 
 ## Original Challenge
 
