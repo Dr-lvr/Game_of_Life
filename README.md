@@ -67,6 +67,7 @@ Original Project Structure
 
 This directory structure reflects the original, modular organization of the C++ project.
 
+
 .
 ├── headers/
 │   ├── Cell.h
@@ -80,6 +81,7 @@ This directory structure reflects the original, modular organization of the C++ 
 │   └── Parser.cpp (Interpreter core)
 └── GoL_template/
     └── Gosper_cannon_binary.txt (Sample data)
+
 
 
 ## Building and Running
