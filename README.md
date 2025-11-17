@@ -57,9 +57,7 @@ Dependency & Module Cleanup: Refactor the original project structure (headers/, 
 Testing: Add unit tests for Cell evolution rules (cellControl)
 
 
-## Edge cases and boundary conditions
-
-Original Project Structure
+## Original Project Structure
 
 This directory structure reflects the original, modular organization of the C++ project.
 
