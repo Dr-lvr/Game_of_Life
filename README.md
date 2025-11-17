@@ -40,7 +40,7 @@ This ensures all cell updates follow Conway’s rules without interfering with t
 
 ## Revival Goals
 
-This revival project it’s an opportunity to modernize architecture, improve design patterns, and enhance maintainability.
+This revival project is an opportunity to modernize architecture, improve design patterns, and enhance maintainability.
 
 
 ## Modernizing the Game of Life
