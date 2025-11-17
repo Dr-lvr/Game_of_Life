@@ -1,8 +1,3 @@
-### Legacy Code Revival: Console Game Engine
-
-These projects represent early experimentation with low-level programming and OS-level rendering.
-
-
 ## Conway's Game of Life (Low-Level Console Engine)
 
 A simulation of Conway's Game of Life implemented in an unconventional ingenius way.
