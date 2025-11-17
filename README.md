@@ -30,9 +30,9 @@ This ensures all cell updates follow Conway’s rules without interfering with t
 
 ## Modernizing the Game of Life
 
-[] Portability: Decouple rendering logic from simulation logic, removing Windows-specific dependencies.
+[ ] Portability: Decouple rendering logic from simulation logic, removing Windows-specific dependencies.
 
-[] UI/UX Improvements: Rebuild the rendering layer using a modern, cross-platform approach: C++ with SFML or SDL OR a web-based port using HTML Canvas or WebGL
+[ ] UI/UX Improvements: Rebuild the rendering layer using a modern, cross-platform approach: C++ with SFML or SDL OR a web-based port using HTML Canvas or WebGL
 
 
 ## Dependency & Testing
