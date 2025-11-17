@@ -1,13 +1,11 @@
 ### Legacy Code Revival: Console Game Engine
 
-These projects represent early experimentation with low-level programming, custom parsing (referenced in the structure below), and OS-level rendering (the core focus of this documentation).
-
-The long-term goal is to revisit these solutions and modernize them with current development standards.
+These projects represent early experimentation with low-level programming and OS-level rendering.
 
 
 ## Conway's Game of Life (Low-Level Console Engine)
 
-A simulation of Conway's Game of Life implemented in a way that pushes the boundaries of what a standard C++ console application can normally do.
+A simulation of Conway's Game of Life implemented in an unconventional ingenius way.
 
 
 ## Original Challenge
