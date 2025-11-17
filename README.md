@@ -1,7 +1,5 @@
 ### Legacy Code Revival: Console Game Engine
 
-This repository is dedicated to the revival, refactoring, and documentation of a collection of C++ projects originally developed around 2018–2019.
-
 These projects represent early experimentation with low-level programming, custom parsing (referenced in the structure below), and OS-level rendering (the core focus of this documentation).
 
 The long-term goal is to revisit these solutions and modernize them with current development standards.
